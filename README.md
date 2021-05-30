@@ -1,1 +1,8 @@
-# android-design-patterns
+# Android设计模式实践
+## 单例
+
+## 工厂
+
+## 代理
+
+
